@@ -2,7 +2,7 @@
   height: 100%;
 }
 #root > section.ant-layout {
-  height: 100%;
+  min-height: 100%;
 }
 
 .ant-drawer-content-wrapper {
